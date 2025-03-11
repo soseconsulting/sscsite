@@ -1,0 +1,59 @@
+<div class="zpelement zpelem-socialshare">
+  <div class="zpsocial-share-container">
+  
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-facebook" data-social-media="facebook">
+        <div class="zpsocial-share-icon-facebook" tabindex="0" role="link" aria-label="Facebook">
+          
+  
+  <svg aria-hidden="true" class="zpsocial-icon-20px " viewBox="0 0 51 97" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <path d="M41.041,15.977 C33.939,15.977 32.564,19.352 32.564,24.305 L32.564,35.226 L49.502,35.226 L49.496,52.332 L32.564,52.332 L32.564,96.227 L14.897,96.227 L14.897,52.332 L0.127,52.332 L0.127,35.226 L14.897,35.226 L14.897,22.612 C14.897,7.972 23.84,0 36.9,0 L50.1,0.021 L50.099,15.973 L41.041,15.977 Z"></path>
+          </svg>
+  
+
+
+          <span class="zpsocial-network-name">Facebook</span>
+        </div>
+      </div>
+    
+   
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-twitter" data-social-media="twitter">
+        <div class="zpsocial-share-icon-twitter" tabindex="0" role="link" aria-label="X">
+          
+  
+  <svg aria-hidden="true" class="zpsocial-icon-20px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><path fill-rule="nonzero" d="M37.97 27.1 61.283 0h-5.525L35.516 23.53 19.348 0H.7l24.449 35.582L.7 64h5.525l21.377-24.849L44.676 64h18.648L37.968 27.1h.002Zm-7.567 8.795-2.477-3.543L8.216 4.16h8.485l15.906 22.753 2.478 3.543L55.76 60.03h-8.486L30.403 35.897v-.002Z"/></svg>
+  
+
+
+          <span class="zpsocial-network-name">X</span>
+        </div>
+      </div>
+    
+   
+    
+    
+    
+      <div class="zpsocial-share-item zpwrapper-linkedin" data-social-media="linkedin">
+        <div class="zpsocial-share-icon-linkedin" tabindex="0" role="link" aria-label="LinkedIn">
+          
+  
+  <svg aria-hidden="true" class="zpsocial-icon-20px " viewBox="0 0 50 50" xmlns:xlink="http://www.w3.org/1999/xlink" data-social-icon="linkedin">
+    <path d="M6.02 0c3.32 0 6.02 2.7 6.02 6.02 0 3.32-2.7 6.02-6.02 6.02C2.7 12.04 0 9.34 0 6.02 0 2.7 2.7 0 6.02 0zm31.62 15.97C48.1 15.97 50 22.77 50 31.73V50H39.72V33.8c0-3.85-.07-8.75-5.37-8.75-5.37 0-6.23 4.2-6.23 8.54V50h-10.3V16.74h9.86v4.6h.22c1.38-2.62 4.7-5.37 9.74-5.37zm-36.66.77h10.4V50H.98V16.74z" fill-rule="nonzero"/>
+  </svg>
+  
+
+
+          <span class="zpsocial-network-name">LinkedIn</span>
+        </div>
+      </div>
+    
+   
+  </div>
+</div>
+
+

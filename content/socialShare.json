@@ -1,0 +1,16 @@
+{
+	"networks" : [
+		{
+			"type" : "facebook",
+			"name" : "Facebook"
+		},
+		{
+			"type" : "twitter",
+			"name" : "Twitter"
+		},
+		{
+			"type" : "pinterest",
+			"name" : "Pinterest"
+		}
+	]
+}
