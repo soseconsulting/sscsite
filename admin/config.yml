@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: main # Change if you're using a different branch
 
-media_folder: "images/uploads"
+media_folder: "images/uploads" # Adjust this if necessary
 public_folder: "/images/uploads"
 
 collections:
